@@ -3,4 +3,4 @@ author: "Luis Miguel"
 description: "Sitio de actividades y rúbricas para el curso de Métodos Numéricos"
 baseurl: "/metodos-numericos"
 url: "https://luismi-doc.github.io"
-theme: minima
+theme: null
